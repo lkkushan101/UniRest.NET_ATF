@@ -1,0 +1,13 @@
+﻿{
+  "Request_Post": "https://reqres.in/",
+ 	"email": "kushan@kushan.com",
+ 	"password":"123456",
+	"Request_Get": "http://restapi.demoqa.com/utilities/weather/city/Pune",
+	"Request_Get2": "http://restapi.demoqa.com/utilities/weather/city/Mumbai",
+	"Request_Get3": "http://restapi.demoqa.com/utilities/weather/city/Chennai",
+	"Request_Delete": "https://reqres.in/",
+	"Request_Put": "https://postman-echo.com/put",
+	"name": "kushan",
+ 	"job":"engineer"
+
+}
